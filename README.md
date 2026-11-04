@@ -4,7 +4,7 @@ Second-year Computer Science student at Babeș-Bolyai University in Cluj-Napoca,
 
 🎯 Looking for a Software Engineering internship.
 
-**Tech:** Python · SQL · Java · C/C++ · Qt · MySQL
+**Tech:** Python · SQL · Java · C/C++ · Qt 
 
 **Projects:**
 
