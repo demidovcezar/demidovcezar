@@ -11,5 +11,3 @@ Second-year Computer Science student at Babeș-Bolyai University in Cluj-Napoca,
 * [8-Puzzle](https://github.com/demidovcezar/puzzle-din-poze-winforms): C# WinForms puzzle game with solvable shuffles, custom images and a timer
 
 📫 [LinkedIn](https://www.linkedin.com/in/demidov-cezar-b2b6033b7/) · [cezar.demidov@outlook.com](mailto:cezar.demidov@outlook.com)
-
-Ce am schimbat
