@@ -14,5 +14,5 @@ Second-year Computer Science student at Babeș-Bolyai University in Cluj-Napoca,
 * [8-Puzzle](https://github.com/demidovcezar/puzzle-din-poze-winforms): C# WinForms puzzle game with solvable shuffles, custom images and a timer
 * [Expense Manager](https://github.com/demidovcezar/ExpenseManager): C++ / Qt desktop app for tracking personal expenses, with undo, sorting and filtering
 
-*📫 [LinkedIn](https://www.linkedin.com/in/demidov-cezar-b2b6033b7/)
+📫 [LinkedIn](https://www.linkedin.com/in/demidov-cezar-b2b6033b7/)
 * [cezar.demidov@outlook.com](mailto:cezar.demidov@outlook.com)
