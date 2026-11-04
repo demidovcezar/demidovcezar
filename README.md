@@ -9,7 +9,7 @@ Second-year Computer Science student at Babeș-Bolyai University in Cluj-Napoca,
 **Projects:**
 
 * [Social Network](https://github.com/demidovcezar/MAP_ToySocialNetwork): Java application modeling a social network
-* * [Library Management System](https://github.com/demidovcezar/library-management-system): Python desktop app with a layered architecture and object-oriented design
+* [Library Management System](https://github.com/demidovcezar/library-management-system): Python desktop app with a layered architecture and object-oriented design
 * [Vehicle Telemetry ETL Pipeline](https://github.com/demidovcezar/vehicle-telemetry-etl-pipeline): Python ETL pipeline for simulated vehicle telemetry, with SQLite and Apache Parquet storage and a Streamlit dashboard (Dockerfile included)
 * [8-Puzzle](https://github.com/demidovcezar/puzzle-din-poze-winforms): C# WinForms puzzle game with solvable shuffles, custom images and a timer
 
